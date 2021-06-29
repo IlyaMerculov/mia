@@ -114,6 +114,15 @@ body{
 }
 
 @media screen and (max-width: 1300px) {
+    #photos{
+        position: absolute;
+        margin-top: 90px;
+        width: -webkit-fill-available;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
     .text-min{
         /* margin-right: 15px; */
         font-family: courier new;
