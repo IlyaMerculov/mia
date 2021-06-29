@@ -55,7 +55,7 @@ body{
 .icons{
     margin-right: 10px;
     width: 35px;
-    height: 35px;
+    height: auto;
     filter: drop-shadow( -7px 7px 3px #141414);
     /* background-color: #ffffff; */
 }
